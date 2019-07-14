@@ -1,1 +1,1 @@
-# sudoku_hard
+This is a Sudoku project.
